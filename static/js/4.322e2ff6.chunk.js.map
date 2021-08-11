@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/discover/c-pages/album/index.js"],"names":["memo"],"mappings":"gIAAA,yBAEeA,0BAAK,WAClB,OACE,8BACE","file":"static/js/4.322e2ff6.chunk.js","sourcesContent":["import React, { memo } from 'react'\r\n\r\nexport default memo(function HYAlbum () {\r\n  return (\r\n    <div>\r\n      <h2>HYAlbum</h2>\r\n    </div>\r\n  )\r\n})\r\n"],"sourceRoot":""}

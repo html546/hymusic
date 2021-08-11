@@ -1,0 +1,2 @@
+(this["webpackJsonphy-music-web-music"]=this["webpackJsonphy-music-web-music"]||[]).push([[12],{173:function(c,e,i){"use strict";i.r(e);var s=i(0),t=i(4);e.default=Object(s.memo)((function(){return Object(t.jsx)("div",{children:Object(t.jsx)("h2",{children:"HYMine"})})}))}}]);
+//# sourceMappingURL=12.cfc4aa4d.chunk.js.map
